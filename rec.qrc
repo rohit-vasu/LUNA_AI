@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="redc">
+    <file>../../Desktop/background.gif</file>
+    <file>lib/background.gif</file>
+    <file>Screen.png</file>
+    <file>lib/—Pngtree—hud ui future futuristic screen_5442146.png</file>
+    <file>lib/brain.gif</file>
+    <file>lib/8871.gif</file>
+    <file>../../Desktop/background.png</file>
+    <file>../../Desktop/background.jpg</file>
+    <file>lib/bar1.png</file>
+    <file>../../Desktop/LUNA/off.jpg</file>
+    <file>../../Desktop/LUNA/brain.gif</file>
+  </qresource>
+</RCC>
